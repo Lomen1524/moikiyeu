@@ -15,7 +15,7 @@
 
 const CONFIG = {
   /* ✏️ [3] THỜI GIAN SỰ KIỆN (giữ đúng định dạng 2 chữ số, +07:00 là giờ Việt Nam) */
-  eventStart: '2026-11-14T09:13:00+07:00',
+  eventStart: '2026-12-12T09:13:00+07:00',
   eventEnd:   '2026-12-12T11:09:00+07:00',
 
   /* ✏️ [3b] MỐC ĐẾM NGƯỢC (đồng hồ trên thiệp đếm về thời điểm này) */
