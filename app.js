@@ -23,7 +23,7 @@ const CONFIG = {
 
   /* ✏️ [11] NHẠC NỀN: file trong thư mục assets/, tự phát và lặp lại khi trang còn mở.
      Muốn đổi bài: thay file trong assets/ rồi sửa đúng tên ở đây. */
-  musicFile: 'assets/otherside-kuraine.mp3',
+  musicFile: 'otherside-kuraine.mp3',
   musicVolume: 0.5,   /* âm lượng 0 → 1 */
 
   /* Hiệu ứng nặng hay nhẹ: true = tắt bớt hạt bay cho máy yếu */
